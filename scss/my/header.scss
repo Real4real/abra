@@ -1,0 +1,9 @@
+$serif: 'Gentium Book Basic', serif !default;
+$sans: Roboto, sans-serif !default;
+$line-height: 130% !default;
+h1 {
+	color: white;
+	font-size: 40px;
+	font-family: $sans;
+	line-height: $line-height;
+}
